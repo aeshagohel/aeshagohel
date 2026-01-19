@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aesha Gohel
+# 👋 Hello, I'm Aesha Gohel
 
 🎓 Information & Communication Technology (ICT) Engineering Student  
 💻 Beginner | Passionate Learner | Tech Enthusiast
@@ -58,7 +58,7 @@ Welcome to my GitHub profile. I am a student developer who enjoys learning new t
 * Improve problem solving skills  
 * Grow as a confident ICT professional  
 
-📫 Contact Me  
+## 📫 Contact Me  
 📧 Email: aeshagohel3009@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/aesha-gohel-602a28372 
 
